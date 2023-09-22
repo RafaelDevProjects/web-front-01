@@ -21,8 +21,3 @@ let linguagens = ["Java","JavaScript","C#"]; //Variavel [lista] do tipo objeto
 console.log(linguagens[1]) //pega o indice numero 1 da lista
 
 console.log(typeof linguagens);
-
-
-
-
-
